@@ -1,6 +1,6 @@
-# Project Name
+# Weather Journal App
 > Building a weather app usning the user zip code to generate temprature.
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://uodeeb.github.io/weather-journal-app/). 
 
 ## Table of Contents
 * [General Info](#general-information)
